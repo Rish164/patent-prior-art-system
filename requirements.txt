@@ -1,0 +1,6 @@
+pydantic>=2.0.0
+rank-bm25
+sentence-transformers
+numpy
+python-dotenv
+pytest
